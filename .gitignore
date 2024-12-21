@@ -164,5 +164,7 @@ cython_debug/
 
 
 #new
-migrations/
+#app/migrations/*
+#!app/migrations/__init__.py
 __pycache__
+migrations/
