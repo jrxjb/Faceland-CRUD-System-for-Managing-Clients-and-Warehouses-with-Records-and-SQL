@@ -56,4 +56,4 @@ Password: tyour_password
 
 ## Acknowledgment
 
-This project was developed as part of my work at Faceland. I acknowledge the company's ownership of the intellectual property contained within this repository. Special thanks to Faceland for allowing me to share this project publicly.
+This project was developed as part of my work at Facelad.com. I acknowledge the company's ownership of the intellectual property contained within this repository. Special thanks to Faceland for allowing me to share this project publicly.
