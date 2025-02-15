@@ -1,4 +1,4 @@
-# Faceland: CRUD System for Managing Clients and Warehouses with Records and SQL
+# Facelad: CRUD System for Managing Clients and Warehouses with Records and SQL
 
 ## Project Description
 
